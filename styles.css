@@ -1,0 +1,28 @@
+h1{
+  color:blue;
+  text-align: center;
+}
+#list{
+  background-color: teal;
+  width:400px;
+  float:left;
+}
+
+#table{
+  background-color:#FFA500;
+  width:400px;
+  float: left;
+}
+table{
+  border: 2px solid black;
+  border-collapse: collapse;
+  width: 50%;
+}
+th,td{
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+}
+th{
+  background-color: lightgrey;
+}
